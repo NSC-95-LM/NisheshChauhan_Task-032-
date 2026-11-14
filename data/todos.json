@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Complete ExpressJS Assignment",
+    "isCompleted": false,
+    "order": 1
+  },
+  {
+    "id": "2",
+    "title": "Prepare ReactJS Frontend integration",
+    "isCompleted": true,
+    "order": 2
+  }
+]
